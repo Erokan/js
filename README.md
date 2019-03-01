@@ -1,2 +1,2 @@
 # js
-İleri Programlama Javascript Kaynak Dosyaları
+İleri Programlama Javascript ve Typescript Kaynak Dosyaları
